@@ -1,4 +1,4 @@
-﻿using Kogane.DebugMenu.Internal;
+using Kogane.DebugMenu.Internal;
 using System;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ namespace Kogane.DebugMenu
 	/// <summary>
 	/// プロファイラ情報を表示するクラス
 	/// </summary>
-	public sealed class ProfilerInfoListCreator : ListCreatorBase<ActionData>
+	public sealed class ProfilerInfoCreator : ListCreatorBase<ActionData>
 	{
 		//==============================================================================
 		// 変数(readonly)

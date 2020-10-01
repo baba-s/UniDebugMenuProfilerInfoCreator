@@ -1,4 +1,4 @@
-﻿using UnityEngine.Profiling;
+using UnityEngine.Profiling;
 
 namespace Kogane.DebugMenu.Internal
 {
